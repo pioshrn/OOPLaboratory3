@@ -1,0 +1,3 @@
+C:/Facultate/Sem 2/OOP/Lab1/git/Lab3-git/OOPLaboratory3/cmake-build-debug/CMakeFiles/OOPLaboratory3.dir
+C:/Facultate/Sem 2/OOP/Lab1/git/Lab3-git/OOPLaboratory3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/Sem 2/OOP/Lab1/git/Lab3-git/OOPLaboratory3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

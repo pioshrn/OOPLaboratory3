@@ -1,0 +1,3 @@
+C:/Facultate/Sem 2/OOP/Lab3/Pb1/cmake-build-debug/CMakeFiles/Pb1.dir
+C:/Facultate/Sem 2/OOP/Lab3/Pb1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Facultate/Sem 2/OOP/Lab3/Pb1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
